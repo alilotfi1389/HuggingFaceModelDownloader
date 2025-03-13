@@ -112,4 +112,4 @@ hfdownloader -d facebook/flores -c 10 -s MyDatasets
 - Existing downloads will be updated if the model/dataset already exists in the storage path and new files or versions are available.
 
 - ## youtube
-<video src="https://www.youtube.com/watch?v=DSLwboFJJK4" />
+[<video src="" />](https://www.youtube.com/watch?v=DSLwboFJJK4)
